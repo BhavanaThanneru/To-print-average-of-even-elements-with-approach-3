@@ -1,0 +1,1 @@
+# To-print-average-of-even-elements-with-approach-3
